@@ -25,7 +25,7 @@ ___Example___:
 > sudo knockmem -r 0x0 100
 ___Result___:
 
-![Image alt](https://github.com/developpin/knockmem/Image.png )
+![Image alt](https://raw.githubusercontent.com/developpin/knockmem/master/Image.png)
 
 
 Copyright (C) 2022, Morin Sergey (*developpin@yandex.ru*)
