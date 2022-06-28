@@ -2,7 +2,7 @@ knockmem
 ===========
 knockmem -simple program for read/write data from physical memory. 
 ____
-Using device **/dev/mem  (bold)**. Byte addresses in dev/mem are interpreted as physical memory addresses. For access to dev/mem demand execute with superuser privigeges. 
+Using device **/dev/mem**. Byte addresses in dev/mem are interpreted as physical memory addresses. For access to dev/mem demand execute with superuser privigeges. 
 
 
 **SYNOPSIS**: knockmem [flag] [phys_addr] [size] {change}
