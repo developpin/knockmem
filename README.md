@@ -8,6 +8,7 @@ Using device **/dev/mem  (bold)**. Byte addresses in dev/mem are interpreted as 
 **SYNOPSIS**: knockmem [flag] [phys_addr] [size] {change}
 
 **[flag]**     Define program mode   (mandatory parameter) 
+
 		      -r      read memory data
 		      -w      write memory data
 
