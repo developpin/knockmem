@@ -27,4 +27,4 @@ ___Example___:
 ![Image alt](https://raw.githubusercontent.com/developpin/knockmem/master/Image.png)
 
 
-Copyright (C) 2022, Morin Sergey (*developpin@yandex.ru*)
+2022, Morin Sergey (*developpin@yandex.ru*)
