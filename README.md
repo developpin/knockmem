@@ -21,7 +21,11 @@ Using device **/dev/mem  (bold)**. Byte addresses in dev/mem are interpreted as 
 **{change}**    New byte value   (used only with flag -w)
 
 
+___Example (bold italic)___: 
+> sudo knockmem -r 0x0 100
+___Result (bold italic)___:
 
+![Alt-текст](https://ibb.co/nsmtGSW "Read")
 
 
 Copyright (C) 2022, Morin Sergey (*developpin@yandex.ru*)
