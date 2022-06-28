@@ -22,8 +22,6 @@ Using device **/dev/mem  (bold)**. Byte addresses in dev/mem are interpreted as 
 
 
 ___Example___: 
-> sudo knockmem -r 0x0 100
-___Result___:
 
 ![Image alt](https://raw.githubusercontent.com/developpin/knockmem/master/Image.png)
 
